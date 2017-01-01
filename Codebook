@@ -1,0 +1,14 @@
+The varibles are "ActivityName", "SubjectID", and means and standard derivison of the these sets of data - one has three dimensions: X, Y, Z:
+
+- ActivityName: indicate the activity label 
+- SubjectID: indciate the row number 
+- tBodyAcc-X
+- tBodyAcc-Y
+- tBodyAcc-Z
+- tBodyGyro-X
+- tBodyGyro-Y
+- tBodyGyro-Z
+
+Each of the last six variables has a mean and standard version. For instance: 
+
+tBodyAcc-mean()-Y: Mean of base body acceleration data in the Y dimension
